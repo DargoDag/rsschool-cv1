@@ -9,7 +9,6 @@ body {
   display: grid;
   grid-template: auto/1fr minmax(600px, 2fr) 1fr;
   grid-template-areas: '. main ';
-  min-height: 100vh;
 }
 
 .title {
@@ -65,12 +64,10 @@ body {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  margin-left: 15px;
 }
 
 .name-and-contacts address {
   margin-top: -15px;
-  margin-right: 45px;
 }
 
 .about__list {
