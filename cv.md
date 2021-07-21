@@ -25,6 +25,7 @@
   * *Daghestan State Technical University (2015-2019)*
   * [HTML-Academy](https://htmlacademy.ru/intensive/htmlcss)
   * [The Rolling Scopes JavaScript Stage 0](https://rs.school/)
+  * [LinkedIn](www.linkedin.com/in/magomed-magomedov-110a8420b)
 
 ## Knowledge of English:
 A2 level
