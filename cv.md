@@ -12,6 +12,7 @@
 ## Skills:
 * **Knowledge programming languages:**
   * *JavaScript*,
+  * *jQuery*,
   * *HTML*,
   * *CSS (SASS)*,
   * *Markdown*.
@@ -19,7 +20,8 @@
 * **Working with the layout:**
   * *Figma*,
   * *Photoshop*.
-* **Bash basics.**
+* **Other skills**
+  * *Git VCS*.
 
 ## Education:
   * *Daghestan State Technical University (2015-2019)*
